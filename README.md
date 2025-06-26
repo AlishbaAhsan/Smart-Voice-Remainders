@@ -7,7 +7,7 @@ This app uses the open-source openchat:latest model (powered by Ollama) to turn 
 - Open-Source AI Magic: Creative text generation powered by the open-source `openchat:latest` model.
 - Magical Reminders: Converts plain event text into fun, expressive, and supportive reminders.
 - Text-to-Speech: Instantly generates an MP3 audio file for your reminder using OpenAI’s TTS.
-- Streamlit Web App: Simple, interactive interface—no coding required!
+- Streamlit Web App: Simple, interactive interface. No coding required!
 - Personalized: Weaves your name and event details into every reminder.
 - Download & Listen: Play your reminder in the browser or download it for later.
 
