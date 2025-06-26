@@ -26,7 +26,7 @@ git clone https://github.com/AlishbaAhsan/Smart-Voice-Remainders.git
 2. Set Up Your Environment
 - Create the virtual enviornment and activate it.
 ```bash
- python3 -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 ```
 - Install dependencies.
