@@ -20,7 +20,7 @@ Just type your name and event, click "Generate Reminder", and get your magical a
 
 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git](https://github.com/AlishbaAhsan/Smart-Voice-Remainders.git
+git clone https://github.com/AlishbaAhsan/Smart-Voice-Remainders.git
 ```
 
 2. Set Up Your Environment
